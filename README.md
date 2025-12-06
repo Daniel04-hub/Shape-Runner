@@ -1,4 +1,4 @@
-# My First Arcade Game
+# Shape Runner
 
 A classic 2D top-down arcade game built with Python. Collect all the coins, avoid the bouncing enemies, and progress through increasingly difficult levels!
 
@@ -19,4 +19,4 @@ A classic 2D top-down arcade game built with Python. Collect all the coins, avoi
    ```
 
 ## Web Version
-navigate to the `web_build` folder to see the source code for the web version (Ported to Pygame for WASM compatibility).
+Navigate to the `web_build` folder to see the source code for the web version (Ported to Pygame for WASM compatibility).
